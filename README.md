@@ -64,27 +64,6 @@
 <a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Web3-King/github-readme-stats"><img alt="Jacob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacob&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Jacob" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/web3-king"><img alt="Jacob's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=web3-king&custom_title=Jacob's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ----------------------------------------------------------------------
