@@ -19,47 +19,44 @@
 - 👯 I’m looking to collaborate on CEO or CFO
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/1-HTML-brightgreen">
+<a href="https://www.html.com" target="_blank"> 
+    <img alt="HTML" src="https://img.shields.io/badge/1-HTML-brightgreen">
   </a>
 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <a href="https://www.css.org" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/2-CSS-yellowgreen">
   </a>
 
-   <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+   <a href="https://javascript.org/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/3-JavaScript-red">
   </a>
 
-   <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+   <a href="https://react.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/4-React-lightblue">
   </a>
 
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+   <a href="https://tyepscript.org/" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/5-TypeScript-blue">
   </a>
 
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+   <a href="https://php.org/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/6-PHP-lightgrey">
   </a>
 
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+   <a href="https://laravel.com/" target="_blank">
+    <img alt="Laravel" src="https://img.shields.io/badge/7-Laravel-red">
   </a>
 
-   <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+   <a href="https://python.io/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/8-Python-green">
   </a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/9-MySQL-yellow"></a>
 
-   <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+   <a href="https://Django.org/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/10-Django-red">
   </a>
-   <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  </a>
-   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+   <a href="https://node.org/" target="_blank">
+    <img alt="Node.JS" src="https://img.shields.io/badge/11-Node-green">
   </a>
 <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
