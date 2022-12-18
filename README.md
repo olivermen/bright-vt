@@ -81,7 +81,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aastha12"><img alt="Jacob's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Jacob's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/web3-king"><img alt="Jacob's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=web3-king&custom_title=Jacob's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -89,6 +89,6 @@
 <br/>
 
 ----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/web3-king)
+Credit: [Jacob Roberto](https://github.com/web3-king)
 
 Last Edited on: 18/12/2022
