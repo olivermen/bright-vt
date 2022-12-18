@@ -58,6 +58,7 @@
    <a href="https://node.org/" target="_blank">
     <img alt="Node.JS" src="https://img.shields.io/badge/11-Node-green">
   </a>
+  <br>
 <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
@@ -68,10 +69,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/Web3-King/github-readme-stats"><img alt="Jacob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacob&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
   <br/>
   </p>
 </details>
@@ -80,7 +81,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aastha12"><img alt="Jacob's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Jacob's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -88,18 +89,18 @@
 <br/>
 
 ## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+<a href="https://github.com/Web3-King/https://github.com/Web3-King/label-maker-johan">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
 </a>  
 
 
-<a href="https://github.com/aastha12/Loan_Prediction">
+<a href="https://github.com/Web3-King/https://github.com/Web3-King/wallet-ui-react-native-main">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
 </a> 
 
 ----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/aastha12)
+Credit: [aastha12](https://github.com/web3-king)
 
-Last Edited on: 19/10/2021
+Last Edited on: 18/12/2022
