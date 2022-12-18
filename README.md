@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer;I'm+a+Blockchain+expert" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
+   <a href="https://www.linkedin.com/in/jacob-roberto-805001106/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="https://stackoverflow.com/users/19656840/jacob-roberto" target="_blank">
@@ -72,7 +72,7 @@
     <a href="https://github.com/Web3-King/github-readme-stats"><img alt="Jacob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacob&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacob&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Jacob" height="192px"/>
   <br/>
   </p>
 </details>
