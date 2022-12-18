@@ -88,18 +88,6 @@
 
 <br/>
 
-## Popular Projects
-<a href="https://github.com/Web3-King/https://github.com/Web3-King/label-maker-johan">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
-</a>  
-
-
-<a href="https://github.com/Web3-King/https://github.com/Web3-King/wallet-ui-react-native-main">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
-</a> 
-
 ----------------------------------------------------------------------
 Credit: [aastha12](https://github.com/web3-king)
 
