@@ -14,7 +14,7 @@
   </a>  
 
 - 👋 Hi, I’m Jacob Roberto
-- 💼 I'm a Full Stack Web Developer from Singapore
+- 💼 I'm a Full Stack Web Developer
 - 💬 Talk to me about freelancing & full-time job opportunities in web developing and blockchain technology
 - 👯 I’m looking to collaborate on CEO or CFO
 
