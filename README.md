@@ -13,6 +13,8 @@
    <a href="https://stackoverflow.com/users/19656840/jacob-roberto" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
+  
+  
 - 👋 Hi, I’m Jacob Roberto
 - 💼 I'm a Full Stack Web Developer
 - 💬 Talk to me about freelancing & full-time job opportunities in web developing and blockchain technology
