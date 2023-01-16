@@ -7,7 +7,7 @@
 </p>
 
 
-   <a href="https://www.linkedin.com/in/jacob-roberto-805001106/" target="_blank">
+   <a href="https://www.linkedin.com/in/jacob-roberto-67b1bb262" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="https://stackoverflow.com/users/19656840/jacob-roberto" target="_blank">
