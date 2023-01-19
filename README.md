@@ -1,74 +1,189 @@
-<h1> Hello Visitors! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<p align="center">
+  <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
-
+<p align="center">
+  <img align="center" src="./pics/banner.png" style = "width: -webkit-fill-available;"/>
+</p>
+<h1 align="center">
+</h1>
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer;I'm+a+Blockchain+expert" /></a>
+&nbsp;Senior web2 & web3 engineer with over 3+ years of experience in web3 world and for 7+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from web2 stacks to combination of web2 & web3 stacks to improve web3 system performance which is the focus and the future of our life, so for now implemented <b>DApps</b>, <b>DeFi</b>, <b>NFT Marketplaces</b>, <b>NFT Mint Websites</b>, <b>Token Launchpads</b>. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 
+## Experienced Blockchain Networks
 
-   <a href="https://www.linkedin.com/in/jacob-roberto-67b1bb262" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-   <a href="https://stackoverflow.com/users/19656840/jacob-roberto" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>  
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
+      </a>
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/binance.png" width="48" height="48" alt="Binance" />
+      </a>
+      <br>Binance
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/avalanche.svg" width="48" height="48" alt="Avalanche" />
+      </a>
+      <br>Avalanche
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
+      </a>
+      <br>Polygon
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/cronos.svg" width="48" height="48" alt="Cronos" />
+      </a>
+      <br>Cronos
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/Lukso.png" width="48" height="48" alt="Lukso" />
+      </a>
+      <br>Lukso
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
+      </a>
+      <br>Solana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/sui.svg" width="48" height="48" alt="Sui" />
+      </a>
+      <br>Sui
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./pics/aptos.webp" width="48" height="48" alt="Aptos" />
+      </a>
+      <br>Aptos
+    </td>
+  </tr>
+</table>
   
-  
-- 👋 Hi, I’m Jacob Roberto
-- 💼 I'm a Full Stack Web Developer
-- 💬 Talk to me about freelancing & full-time job opportunities in web developing and blockchain technology
-- 👯 I’m looking to collaborate on CEO or CFO
+## Tools & languages
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://www.html.com" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/1-HTML-brightgreen">
-  </a>
-
-   <a href="https://www.css.org" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/2-CSS-yellowgreen">
-  </a>
-
-   <a href="https://javascript.org/" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/3-JavaScript-red">
-  </a>
-
-   <a href="https://react.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/4-React-lightblue">
-  </a>
-
-   <a href="https://tyepscript.org/" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/5-TypeScript-blue">
-  </a>
-
-   <a href="https://php.org/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/6-PHP-lightgrey">
-  </a>
-
-   <a href="https://laravel.com/" target="_blank">
-    <img alt="Laravel" src="https://img.shields.io/badge/7-Laravel-red">
-  </a>
-
-   <a href="https://python.io/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/8-Python-green">
-  </a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/9-MySQL-yellow"></a>
-
-   <a href="https://Django.org/" target="_blank">
-    <img alt="Django" src="https://img.shields.io/badge/10-Django-red">
-  </a>
-   <a href="https://node.org/" target="_blank">
-    <img alt="Node.JS" src="https://img.shields.io/badge/11-Node-green">
-  </a>
-  <br>
-<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-
-
-<br/>
-
-----------------------------------------------------------------------
-Credit: [Jacob Roberto](https://github.com/web3-king)
-
-Last Edited on: 18/12/2022
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" width="48" height="48" alt="Solidity" />
+      </a>
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/rust.png" width="72" height="48" alt="Rust" />
+      </a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="48" height="48" alt="NodeJs" />
+      </a>
+      <br>NodeJs
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./pics/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="48" height="48" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./pics/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./pics/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./pics/aws-ampliify.svg" width="48" height="48" alt="AWS_Amplify" />
+      </a>
+      <br>AWS_Amplify
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+  </tr>
+</table>
