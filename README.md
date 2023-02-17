@@ -15,67 +15,6 @@ A Senior full-stack web developer with over 7 years of experience in web design,
                 Spending most of time in the <b>Javascript</b> / <b>Typescript</b> community.<br><br>
                 Above and beyond, I have a great passion for web3 which is the focus and the future of our life and I implemented DApps, DeFi, NFT Marketplaces, NFT Mint Websites, Token Launchpads. I have worked with some IT companies and enjoyed the work a lot. My recruiters are always delighted with my creativity, hard work and stamina.
 </p>
-
-## Experienced Blockchain Networks
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
-      </a>
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/binance.png" width="48" height="48" alt="Binance" />
-      </a>
-      <br>Binance
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/avalanche.svg" width="48" height="48" alt="Avalanche" />
-      </a>
-      <br>Avalanche
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
-      </a>
-      <br>Polygon
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/cronos.svg" width="48" height="48" alt="Cronos" />
-      </a>
-      <br>Cronos
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/Lukso.png" width="48" height="48" alt="Lukso" />
-      </a>
-      <br>Lukso
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
-      </a>
-      <br>Solana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/sui.svg" width="48" height="48" alt="Sui" />
-      </a>
-      <br>Sui
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./pics/aptos.webp" width="48" height="48" alt="Aptos" />
-      </a>
-      <br>Aptos
-    </td>
-  </tr>
-</table>
   
 ## Tools & languages
 
@@ -190,6 +129,67 @@ A Senior full-stack web developer with over 7 years of experience in web design,
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
+    </td>
+  </tr>
+</table>
+
+## Experienced Blockchain Networks
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
+      </a>
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/binance.png" width="48" height="48" alt="Binance" />
+      </a>
+      <br>Binance
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/avalanche.svg" width="48" height="48" alt="Avalanche" />
+      </a>
+      <br>Avalanche
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
+      </a>
+      <br>Polygon
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/cronos.svg" width="48" height="48" alt="Cronos" />
+      </a>
+      <br>Cronos
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/Lukso.png" width="48" height="48" alt="Lukso" />
+      </a>
+      <br>Lukso
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
+      </a>
+      <br>Solana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/sui.svg" width="48" height="48" alt="Sui" />
+      </a>
+      <br>Sui
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./pics/aptos.webp" width="48" height="48" alt="Aptos" />
+      </a>
+      <br>Aptos
     </td>
   </tr>
 </table>
