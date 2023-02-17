@@ -32,24 +32,6 @@ A Senior full-stack web developer with over 7 years of experience in web design,
       </a>
       <br>TypeScript
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" width="48" height="48" alt="Solidity" />
-      </a>
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/rust.png" width="72" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./pics/python-original.svg" width="48" height="48" alt="Python" />
