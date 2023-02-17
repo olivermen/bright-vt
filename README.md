@@ -2,12 +2,12 @@
   <a href="https://github.com/web3-king"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;Highly%20Focus%20Leading%20Web%20and%20SEO%20Expert;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 <p align="center">
-  <img align="center" src="./pics/web2.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="./pics/web3.png" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
 </h1>
 <p style="font-size: 20px;">
-&nbsp;A Senior full-stack web developer with over 7 years of experience in web design, development and maintenance with a focus on SEO, code optimization and code quality. <br><br>
+A Senior full-stack web developer with over 7 years of experience in web design, development and maintenance with a focus on SEO, code optimization and code quality. <br><br>
                 Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.
                 <br><br>
                 I provide <b>Front-End</b>, <b>Back-End</b> and also user-friendly web solutions.<br>
