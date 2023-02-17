@@ -6,8 +6,8 @@
 </p>
 <h1 align="center">
 </h1>
-<p>
-&nbsp;A senior full-stack web developer with over 7 years of experience in web design, development and maintenance with a focus on SEO, code optimization and code quality. <br><br>
+<p style="font-size: 20px;">
+&nbsp;A Senior full-stack web developer with over 7 years of experience in web design, development and maintenance with a focus on SEO, code optimization and code quality. <br><br>
                 Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.
                 <br><br>
                 I provide <b>Front-End</b>, <b>Back-End</b> and also user-friendly web solutions.<br>
