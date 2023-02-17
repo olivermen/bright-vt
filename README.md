@@ -56,14 +56,14 @@ A Senior full-stack web developer with over 7 years of experience in web design,
       </a>
       <br>Vue
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="./pics/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>TailwindCSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./pics/sass-original.svg" width="48" height="48" alt="Sass" />
