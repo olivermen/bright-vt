@@ -16,7 +16,7 @@ A Senior full-stack web developer with over 7 years of experience in web design,
                 Above and beyond, I have a great passion for web3 which is the focus and the future of our life and I implemented DApps, DeFi, NFT Marketplaces, NFT Mint Websites, Token Launchpads. I have worked with some IT companies and enjoyed the work a lot. My recruiters are always delighted with my creativity, hard work and stamina.
 </p>
   
-## Tools & languages
+## Languages & libraries
 
 <table>
   <tr>
