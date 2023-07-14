@@ -7,13 +7,13 @@
 <h1 align="center">
 </h1>
 <p style="font-size: 20px;">
-A Senior full-stack web developer with over 7 years of experience in web design, development and maintenance with a focus on SEO, code optimization and code quality. <br><br>
-                Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.
-                <br><br>
-                I provide <b>Front-End</b>, <b>Back-End</b> and also user-friendly web solutions.<br>
-                I would like to inform you that I am highly skilled with frontend & backend frameworks and libraries like <b><i class="bi bi-react"></i>React.js</b>, <b>Node.js</b>, <b>Django</b> and so on, as I have handsome experience of it. Still, I am always eager to learn a new thing and make my skills sharper whenever I get a chance.
-                Spending most of time in the <b>Javascript</b> / <b>Typescript</b> community.<br><br>
-                Above and beyond, I have a great passion for web3 which is the focus and the future of our life and I implemented DApps, DeFi, NFT Marketplaces, NFT Mint Websites, Token Launchpads. I have worked with some IT companies and enjoyed the work a lot. My recruiters are always delighted with my creativity, hard work and stamina.
+As a highly focused front-end engineer with a passion for self-learning, I have accumulated extensive experience in full stack development and blockchain technology. My expertise lies in developing decentralized applications using Ethereum and Hyperledger.
+
+With a meticulous attention to detail and a drive for excellence, I have spent the past 6 years building reusable components and interface features for both web and mobile applications. React JS, Vue, and Angular frameworks are my areas of specialization, enabling me to deliver seamless user experiences.
+
+Throughout my career, I have successfully crafted various websites, employing user-friendly designs that prioritize object-oriented principles. This combination of aesthetics and functionality has been instrumental in achieving client satisfaction and propelling my professional growth.
+
+My commitment to maintaining positive relationships with clients, along with my genuine interest in web and mobile development, has played a significant role in driving my success.
 </p>
   
 ## Languages & libraries
